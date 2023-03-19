@@ -1,8 +1,35 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Name
+A brief description of the project goes here.
 
-# Clone this project :
-git clone https://github.com/GrimonprezAlexis/starter-react.git
+## Dependancies
+- sass
+- react-router-dom
 
-## Run App 
-Install npm dependencies using `npm install`
-Use `npm start` to run open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Getting Started
+## Prerequisites
+List any software or libraries that need to be installed before getting started.
+
+# Installation
+1. Clone the repository
+``git clone https://github.com/username/project.git``
+
+2. Install dependencies
+``npm install``
+
+3. Start the development server
+``npm start``
+
+## Usage
+Explain how to use the project, including any configuration options.
+
+# Contributing
+Explain how others can contribute to the project, including guidelines for pull requests and coding standards.
+
+#  License
+Specify the license under which the project is released.
+
+#  Acknowledgments
+Mention any people, organizations, or resources that were helpful during the development of the project.
+
+#  Contact
+Provide contact information for the project maintainer(s) in case others have questions or concerns.
